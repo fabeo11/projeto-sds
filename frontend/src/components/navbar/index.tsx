@@ -1,7 +1,5 @@
-import ImgDsDark from "assets/img/ds-dark.svg";
-
 import { Link } from "react-router-dom";
-declare module "react-router-dom";
+import ImgDsDark from "assets/img/ds-dark.svg";
 
 //outra maneira de declarar função js
 //const Navbar = () =>
