@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
 import ImgDsDark from "assets/img/ds-dark.svg";
 
-//outra maneira de declarar função js
-//const Navbar = () =>
 function Navbar() {
   return (
     <div className="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-light border-bottom shadow-sm">
